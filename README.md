@@ -1,4 +1,4 @@
-# Quantitative Trading with High-Frequency Trading Framework
+# Quantitative Trading with Broker's API Trading Framework
 
 This repository provides a framework for **Quantitative Trading** strategies, focusing on the development of **Alpha Algorithms** systems. It allows users to backtest and simulate trading strategies with historical market data and execute those strategies in real-time and works with any timeframe.
 
