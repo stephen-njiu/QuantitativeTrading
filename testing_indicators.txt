@@ -1,0 +1,12 @@
+__TESTING METHODS OF TECHNICAL INDICATORS__
+<br>
+* Correlation with Price Movement (intermediate) - how well a certain indicator can predict the direction of the price movement. e.g as the indicator increases, the price also increases
+* Cross-Validation with price Trends (Advanced) - Used to validate the perfomance of a model. mostly used when machine learning models are used.
+* Candle Counting and Average Price Movement (easy) - very practical. Counting the number of bearish and bullish candles after certain indicator conditions. e.g when a certain indicator conditions happen, is hte next two candles bullish, or bearish or are the next pattern a hammer..etc
+<br>
+	* Average price Movement - Calculating the average price of the future candles and determing if that price is > or < the current price.
+* Rolling Windows Analysis (easy) - identify a trend based on historical data. we used a roling window to identiy a slope based on historical data and then extrapolate this trend.
+* Directional Movement Category (easy) - Here we add a barrier, and hence a trend is determined where the price is above the price plus the barrier. hence the categories are bearish, bullish, or ranging.
+* Volatility Analysis (easy) - Dividing the dataset into different volatility conditions.
+* Selected Pattern Studies (intermediate) - 
+* Correlation Heatmaps (intermediate)
